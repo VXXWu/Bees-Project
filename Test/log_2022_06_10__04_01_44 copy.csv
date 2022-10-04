@@ -1,0 +1,24 @@
+﻿File Creation Time UTC;2022-06-10 04:01:46
+SW Name;iID®DataCaptureSoftware
+SW Version;v01.09
+SW BuildDate;2020-04-07
+SW StartTime;2022-06-07 22:31:14
+Lib Version;v1.6.3
+Company;Micro-Sensys GmbH
+OS Version;v10.0.17763.865
+
+
+Settings
+;Scan mode;MPC
+;;DataGetDelay_Seconds;10
+
+Found Hardware
+;Address;ReaderID;HW-Info;FW-Info;Num-Antennas
+;0x01;25SQCMICSCB030EB4
+;0x10;200330;D0.22;98.26.06;2
+;0x13;200328;D0.22;98.26.06;2
+
+
+Timestamp;HexAddress;ReaderID;UID;Collection;DataType;FirstTimeFound;LastTimeFound;NumFound;Direction;Ant1;Ant2
+2022-06-09 21:01:40,187;13;200328;25SQCMICSBB50DC009C78;;DPC;2022-06-10 04:01:30,100;2022-06-10 04:01:30,100;190;Arriving;x;x
+2022-06-09 21:01:50,265;13;200328;25SQCMICSBB50DC009C78;;DPC;2022-06-10 04:01:40,100;2022-06-10 04:01:40,100;17;Unknown;;x
